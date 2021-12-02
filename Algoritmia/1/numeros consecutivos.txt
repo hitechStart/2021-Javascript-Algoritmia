@@ -1,0 +1,1 @@
+El ejercicio consta de una estructura json que debe devolver los valores consecutivos de las cuotas pagas efectuadas por el cliente
