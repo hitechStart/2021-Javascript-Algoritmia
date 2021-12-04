@@ -1,0 +1,44 @@
+    {
+        "cuenta": "123456",
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "cuotas": [
+            {
+                "cuota": 13,
+                "importe": 123.4567
+            },
+            {
+                "cuota": 7,
+                "importe": 234.5678
+            },
+            {
+                "cuota": 2,
+                "importe": 456.789
+            },
+            {
+                "cuota": 11,
+                "importe": 567.8901
+            },
+            {
+                "cuota": 3,
+                "importe": 678.9012
+            },
+            {
+                "cuota": 9,
+                "importe": 789.0123
+            },
+            {
+                "cuota": 12,
+                "importe": 890.1234
+            },
+            {
+                "cuota": 14,
+                "importe": 901.2345
+            },
+            {
+                "cuota": 8,
+                "importe": 12.3456
+            }
+        ]
+    }
+    
