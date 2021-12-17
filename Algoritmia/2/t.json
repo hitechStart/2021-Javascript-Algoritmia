@@ -1,0 +1,15 @@
+{
+    "inicio":"cero",
+    "cuerpo":"principal",
+    "trama": [
+        {
+            "nombre": "pepe",
+            "apellido": "perez"
+        },
+        {
+            "nombre": "carlos",
+            "apellido": "lopez"
+        }       
+    ],
+    "telefonos":["111111","222222"]
+}

@@ -1,0 +1,39 @@
+{
+    "trama": [
+		{
+        "preambulo": "10fdc3946eeaba",
+        "delimitador": "93",
+        "origen": "a12141011aef",
+		"destino": "bc4586efccec",
+		"etiqueta": "5234eaac",
+		"longitud": "ff00",
+		"crc": "cdd3012d",
+		"gap": "ccabc1544298710ffacacdbc"
+		},
+		{	
+        "payload": [
+			{"h":"68"
+			},
+			{"o":"6f"
+			},
+			{"l":"6c"
+			},
+			{"a":"61"
+			},
+			{" ":"20" 
+			},
+			{"m":"6d"
+			},
+			{"u":"75"
+			},
+			{"n":"6e"
+			},
+			{"d":"64"
+			},
+			{"o":"6f"
+			},
+			{"NULL":"00"
+			}
+		]
+    }]
+}
