@@ -1,14 +1,19 @@
 {
-  "name": "2",
-  "version": "1.0.0",
-  "description": "",
-  "main": "2-ejercicio.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "mysql": "^2.18.1"
-  }
+    "name": "2",
+    "version": "1.0.0",
+    "main": "2-ejercicio.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "docs": "jsdoc -c jsdoc.json"
+    },
+    "author": "Maximiliano Di Ludovico",
+    "license": "ISC",
+    "dependencies": {
+        "mysql": "^2.18.1"
+    },
+    "keywords": [],
+    "description": "",
+    "devDependencies": {
+        "jsdoc": "^3.6.7"
+    }
 }
